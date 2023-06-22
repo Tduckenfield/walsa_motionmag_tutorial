@@ -8,6 +8,11 @@
  2. An explanation of the motion magnification algorithm, its parameters, and playing around with magnifying a toy datacube can be found in [understanding_mm.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/understanding_mm.ipynb).
  3. A rough tutorial for downloading some AIA/SDO data, choosing a cutout, and motion magnifying it to search for decayless kink oscillations (as discussed by several of previous speakers!) for yourself may be found in [mm_solardata.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/mm_solardata.ipynb)
 
+# Google drive
+To get Google Colab to run, it helps to log in to a Google Drive. If you do not want/can not use your own, I have set up a temporary one. Feel free to save motion magnified videos in there, but of course there is only so much space so you had best be quick!
+*Email:* tjdtoshare@gmail.com
+*Password:* wisadtcwt!!
+
 # File IDs
  To do this analysis, you need some images, datacubes and movies. Since they are too large to be kept in this repository (cloning this repository would become very sluggish), I have saved some data in a shared Google drive. 
  One can use [!gdown](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb#scrollTo=XztYEj0oD7J3) to download specific files into our current working directly, if one knows the user id. Here is a list of some useful datacubes you may wish to take a look at.
