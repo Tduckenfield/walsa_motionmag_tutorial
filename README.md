@@ -11,6 +11,7 @@
 # File IDs
  To do this analysis, you need some images, datacubes and movies. Since they are too large to be kept in this repository (cloning this repository would become very sluggish), I have saved some data in a shared Google drive. 
  One can use [!gdown](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb#scrollTo=XztYEj0oD7J3) to download specific files into our current working directly, if one knows the user id. Here is a list of some useful datacubes you may wish to take a look at.
+ 
 * daphne.jpg = 1waPbCvz8Tkhyzzg3f968TDgjxsUaIN_D
 * mandrill.npz = 1bDU4_hbyGZZ-HDMEJo591prdwfRwyxOl
 * sergey.mp4 = 1l8HjifR4t52D16tx2NGtk0FoxxD3wWDp
@@ -21,7 +22,8 @@
 
 If you are struggling to get the codes to run, some outputs are also stored here.
 * daphne_mm.mp4 = 1Cl0lD51Y0Tb5KeCHHYj2Qtac7gYyszbt
-* aia.lev1_euv_12s.2023-06-10T232959Z.171.image.fits = 1InSb8x0LoJTdyYbzRe2igtyWa7tJxF1R
+* aia.lev1_euv_12s.2023-06-10T232959Z.171.image.fits = 1fPvZoYQZLWfuK3ZXpECq22YFgI1ygXCD
+* sq171_20230611 = 
 * orig_fits.zip = 1aWmxzJRmjQjU3GKn7m3CneAWYK-hYNga # This contains all my cutout FITS files
 * mm_fits.zip = 18-7V5KAqepQWVa7fqNvhpI4AIw_iYTvZ # This contains all my cutout FITS files
 * 20230611_sunmaps.mp4 = 1K5XrbapQ1MUYt7nsUkY_sNboTne-zz-t
