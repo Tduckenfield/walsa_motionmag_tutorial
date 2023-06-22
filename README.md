@@ -2,3 +2,8 @@
  This is a repository made as part of the workshop [Waves and Instabilities in the Solar Atmosphere](https://www.wisa2023.org/) held in June 2023 at Northumbria University, UK. This tutorial, ``Motion magnification and its application to solar data'', was given by [**Dr Tim Duckenfield**](https://orcid.org/0000-0003-3306-4978).
 
  For questions, comments please email [`tim.duckenfield@northumbria.ac.uk`](mailto:tim.duckenfield@northumbria.ac.uk).
+
+ There are several notebooks in the repository, I suggest starting with [mm_example.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/mm_example.ipynb) to get a feel for the the process. Then for further information:
+ 1.  More detailed explanation behind the underlying DT$\mathbb{C}$WT tranform may be found in [understanding_dtcwt.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/understanding_dtcwt.ipynb).
+ 2. An explanation of the motion magnification algorithm, its parameters, and playing around with magnifying a toy datacube can be found in [understanding_mm.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/understanding_mm.ipynb).
+ 3. A rough tutorial for downloading some AIA/SDO data, choosing a cutout, and motion magnifying it to search for decayless kink oscillations (as discussed by several of previous speakers!) for yourself may be found in [mm_solardata.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/mm_solardata.ipynb)
