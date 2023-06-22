@@ -16,7 +16,7 @@
 * sergey.mp4 = 1l8HjifR4t52D16tx2NGtk0FoxxD3wWDp
 * guitar.mp4 = 1jK4K3hASDLyV1_IL8i7aHN0Bw_NmPY8Q
 * daphne_sleeping_compressed.mp4 = 1RHOMVPS0I4untNWh52_9TgoOccgUx2DD
-* daphne_garden.MOV = 1kEO4P9EawBvTCj8zNE1yun5uQllaSYJD   # Careful, this is too large to MM in colab
+* daphne_garden.MOV = 1kEO4P9EawBvTCj8zNE1yun5uQllaSYJD   # Careful, this may be too large to MM in colab
 * bye.mp4 = 1Sofe9IFkTzVFMGuAlmOw4SnNDSFQQP5v
 
 If you are struggling to get the codes to run, some outputs are also stored here.
