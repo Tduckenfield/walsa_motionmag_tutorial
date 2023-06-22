@@ -10,7 +10,9 @@
 
 # Google drive
 To get Google Colab to run, it helps to log in to a Google Drive. If you do not want/can not use your own, I have set up a temporary one. Feel free to save motion magnified videos in there, but of course there is only so much space so you had best be quick!
+
 *Email:* tjdtoshare@gmail.com
+
 *Password:* wisadtcwt!!
 
 # File IDs
