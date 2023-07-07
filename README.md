@@ -3,7 +3,7 @@
 
  For questions, comments please email [`tim.duckenfield@northumbria.ac.uk`](mailto:tim.duckenfield@northumbria.ac.uk).
 
- There are several notebooks in the repository, I suggest starting with [mm_example.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/start_here.ipynb) to get a feel for the the process. Then for further information:
+ There are several notebooks in the repository, I suggest starting with [start_here.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/start_here.ipynb) to get a feel for the the process. Then for further information:
  1.  More detailed explanation behind the underlying DT$\mathbb{C}$WT tranform may be found in [understanding_dtcwt.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_dtcwt.ipynb).
  2. An explanation of the motion magnification algorithm, its parameters, some historical context, and playing around with magnifying a toy datacube can be found in [understanding_mm.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_mm.ipynb).
  3. A rough tutorial for downloading some AIA/SDO data, choosing a cutout, and motion magnifying it to search for decayless kink oscillations (as discussed by several of previous speakers!) for yourself may be found in [mm_solardata.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/mm_solardata.ipynb)
