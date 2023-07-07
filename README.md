@@ -10,7 +10,7 @@
 
 # File IDs
  To do this analysis, you need some images, datacubes and movies. Since they are too large to be kept in this repository (cloning this repository would become very sluggish), I have saved some data in a shared Google drive. 
- One can use [!gdown](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb#scrollTo=XztYEj0oD7J3) to download specific files into our current working directly, if one knows the user id. Here is a list of some useful datacubes you may wish to take a look at.
+ One can use [!gdown](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb#scrollTo=XztYEj0oD7J3) to download specific files into our current working directly, if one knows the user id. Here is a list of some useful datacubes you may wish to take a look at. I may be biased, but I recommend you motion magnify any with my dog daphne...
  
 * daphne.jpg = 1waPbCvz8Tkhyzzg3f968TDgjxsUaIN_D
 * mandrill.npz = 1bDU4_hbyGZZ-HDMEJo591prdwfRwyxOl
