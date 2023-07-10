@@ -23,6 +23,7 @@
 If you are struggling to get the codes to run, some outputs are also stored here.
 * daphne_mm.mp4 = 1Cl0lD51Y0Tb5KeCHHYj2Qtac7gYyszbt
 * aia.lev1_euv_12s.2023-06-10T232959Z.171.image.fits = 1fPvZoYQZLWfuK3ZXpECq22YFgI1ygXCD
+* hmi.m_720s.20230611_000000_TAI.3.magnetogram.fits = 11hN4HPrP2h7pWRktGXZ9f5BY6ThWu87T
 * orig_fits.zip = 1aWmxzJRmjQjU3GKn7m3CneAWYK-hYNga # This contains all my cutout FITS files
 * mm_fits.zip = 18-7V5KAqepQWVa7fqNvhpI4AIw_iYTvZ # This contains all my cutout FITS files
 * 20230611_sunmaps.mp4 = 1K5XrbapQ1MUYt7nsUkY_sNboTne-zz-t
