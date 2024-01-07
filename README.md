@@ -1,8 +1,8 @@
-# WISA_motionmag_tutorial
- This is a repository made as part of the workshop [Waves and Instabilities in the Solar Atmosphere](https://www.wisa2023.org/) held in June 2023 at Northumbria University, UK. This tutorial, ``Motion magnification and its application to solar data'', was given by [**Dr Tim Duckenfield**](https://orcid.org/0000-0003-3306-4978).
+# WaLSA_motionmag_tutorial
+ This is a repository made as part of the [WaLSA](https://WaLSA.team) team meeting held in January 2024 at Rosseland Centre for Solar Physics (RoCS) in Oslo, Norway. This tutorial, ``Motion magnification and its application to solar data'', was given by [**Dr Tim Duckenfield**](https://orcid.org/0000-0003-3306-4978).
 
- For questions, comments please email [`tim.duckenfield@northumbria.ac.uk`](mailto:tim.duckenfield@northumbria.ac.uk).
-
+ For questions, comments please email [`t.duckenfield@qub.ac.uk`](mailto:t.duckenfield@qub.ac.uk).
+ 
  There are several notebooks in the repository, I suggest starting with [start_here.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/start_here.ipynb) to get a feel for the the process. Then for further information:
  1.  More detailed explanation behind the underlying DT$\mathbb{C}$WT tranform may be found in [understanding_dtcwt.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_dtcwt.ipynb).
  2. An explanation of the motion magnification algorithm, its parameters, some historical context, and playing around with magnifying a toy datacube can be found in [understanding_mm.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_mm.ipynb).
