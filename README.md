@@ -2,11 +2,11 @@
  This is a repository made as part of the [WaLSA](https://WaLSA.team) team meeting held in January 2024 at Rosseland Centre for Solar Physics (RoCS) in Oslo, Norway. This tutorial, ``Motion magnification and its application to solar data'', was given by [**Dr Tim Duckenfield**](https://orcid.org/0000-0003-3306-4978).
 
  For questions, comments please email [`t.duckenfield@qub.ac.uk`](mailto:t.duckenfield@qub.ac.uk).
- 
+
  There are several notebooks in the repository, I suggest starting with [start_here.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/start_here.ipynb) to get a feel for the the process. Then for further information:
- 1.  More detailed explanation behind the underlying DT$\mathbb{C}$WT tranform may be found in [understanding_dtcwt.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_dtcwt.ipynb).
+ 1.  More detailed explanation behind the underlying DT$\mathbb{C}$WT tranform may be found in [understanding_dtcwt.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_dtcwt.ipynb). I am particularly interested in discussing the potential of using this wavelet transform to enhance the motion of vortices/swirls...
  2. An explanation of the motion magnification algorithm, its parameters, some historical context, and playing around with magnifying a toy datacube can be found in [understanding_mm.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/understanding_mm.ipynb).
- 3. A rough tutorial for downloading some AIA/SDO data, choosing a cutout, and motion magnifying it to search for decayless kink oscillations (as discussed by several of previous speakers!) for yourself may be found in [mm_solardata.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/mm_solardata.ipynb)
+ 3. A rough tutorial for downloading some AIA/SDO data, choosing a cutout, and motion magnifying it to search for decayless kink oscillations for yourself may be found in [mm_solardata.ipynb](https://colab.research.google.com/github/Tduckenfield/wisa_motionmag_tutorial/blob/main/notebooks/mm_solardata.ipynb)
 
 # File IDs
  To do this analysis, you need some images, datacubes and movies. Since they are too large to be kept in this repository (cloning this repository would become very sluggish), I have saved some data in a shared Google drive. 
