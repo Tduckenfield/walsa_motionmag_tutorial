@@ -10,6 +10,11 @@
 
 # File IDs
  To do this analysis, you need some images, datacubes and movies. Since they are too large to be kept in this repository (cloning this repository would become very sluggish), I have saved some data in a shared Google drive. 
+
+ You are welcome to log in using my shared drive if you would rather not use your own. The log in details are:
+ - tjdtoshare@gmail.com
+ - walsadtcwt!!
+
  One can use [!gdown](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb#scrollTo=XztYEj0oD7J3) to download specific files into our current working directly, if one knows the user id. Here is a list of some useful datacubes you may wish to take a look at. I may be biased, but I recommend you motion magnify any with my dog daphne...
  
 * daphne.jpg = 1waPbCvz8Tkhyzzg3f968TDgjxsUaIN_D
@@ -24,8 +29,8 @@ If you are struggling to get the codes to run, some outputs are also stored here
 * daphne_mm.mp4 = 1Cl0lD51Y0Tb5KeCHHYj2Qtac7gYyszbt
 * aia.lev1_euv_12s.2023-06-10T232959Z.171.image.fits = 1fPvZoYQZLWfuK3ZXpECq22YFgI1ygXCD
 * hmi.m_720s.20230611_000000_TAI.3.magnetogram.fits = 11hN4HPrP2h7pWRktGXZ9f5BY6ThWu87T
-* orig_fits.zip = 1aWmxzJRmjQjU3GKn7m3CneAWYK-hYNga # This contains all my cutout FITS files
-* mm_fits.zip = 18-7V5KAqepQWVa7fqNvhpI4AIw_iYTvZ # This contains all my cutout FITS files
+* orig_fits.zip = 1aWmxzJRmjQjU3GKn7m3CneAWYK-hYNga # This contains some previously cutout FITS files
+* mm_fits.zip = 18-7V5KAqepQWVa7fqNvhpI4AIw_iYTvZ # This contains some previously processed + cutout FITS files
 * 20230611_sunmaps.mp4 = 1K5XrbapQ1MUYt7nsUkY_sNboTne-zz-t
 * 20230611_171_magk5w120.npy = 1ZLTq9wauJNNoO_VBE5AZuHSMCruOBzjp
 * 20230611_k5w120_sunmaps.mp4 = 1SF6NKi7SlMUlqrzzvRxearsPbzfrqDeF
